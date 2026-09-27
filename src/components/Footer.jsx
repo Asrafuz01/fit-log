@@ -6,7 +6,7 @@ export default function Footer() {
           <img
             src="/logo.png"
             alt="FitLog"
-            className="h-8 w-auto object-contain"
+            className="h-9 w-auto object-contain"
           />
 
           <span className="font-black tracking-widest">FITLOG</span>
