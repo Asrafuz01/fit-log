@@ -27,7 +27,7 @@ export default function Hero() {
               <div className="mt-7">
                 <Link
                   href="#library"
-                  className="inline-flex items-center gap-3 rounded-full bg-[#ccff00] px-6 py-3 text-sm font-bold uppercase text-black transition hover:scale-[1.02]"
+                  className="inline-flex items-center gap-3 rounded-full bg-[#ccff00] px-6 py-3.5 text-sm font-bold uppercase text-black transition hover:scale-[1.02]"
                 >
                   Browse Workouts
                   <span>→</span>
