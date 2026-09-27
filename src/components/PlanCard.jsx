@@ -7,7 +7,7 @@ export default function PlanCard({ workout, savedCard = false }) {
   const { removeFromPlan, toggleDone, removeSaved } = useFitLog();
 
   return (
-    <article className="rounded-2xl border border-[#292929] bg-[#111] p-4">
+    <article className="rounded-2xl border border-[#292929] bg-[#111] p-5">
       <div className="flex flex-col gap-5 sm:flex-row">
         <img
           src={workout.image}
