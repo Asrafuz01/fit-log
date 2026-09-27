@@ -15,7 +15,7 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-40 border-b border-[#292929] bg-[#080808]/95 backdrop-blur">
       <div className="container-fit">
-        <div className="navbar min-h-[72px] px-0">
+        <div className="navbar min-h-[76px] px-0">
           {/* Logo */}
           <div className="navbar-start">
             <Link href="/" className="flex items-center gap-3">
