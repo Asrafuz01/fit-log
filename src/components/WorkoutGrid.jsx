@@ -25,7 +25,7 @@ export default function WorkoutGrid({ workouts }) {
   }, [workouts, sortBy]);
 
   return (
-    <section id="library" className="container-fit py-16">
+    <section id="library" className="container-fit py-14">
       <div className="mb-8 flex flex-col justify-between gap-5 sm:flex-row sm:items-end">
         <div>
           <p className="text-xs font-black tracking-[0.3em] text-[#ccff00]">
