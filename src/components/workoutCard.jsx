@@ -25,7 +25,7 @@ export default function WorkoutCard({ workout }) {
           </div>
         </div>
 
-        <div className="p-5">
+        <div className="p-6">
           <h3 className="display-font text-2xl uppercase leading-none">
             {workout.name}
           </h3>
